@@ -12,22 +12,3 @@ code {
     monospace;
 }
 
-#hero {
-  margin-left: 50%;
-  transform: translateX(-50%);
-  width: 95%;
-  height: 30rem;
-  background-color: aquamarine;
-}
-
-.header{
-  width: 100%;
-  height: 5rem;
-  background-color: #ff0000;
-}
-
-.navbar{
-  width: 100%;
-  height: 3rem;
-  background-color: #ffffff;
-}
